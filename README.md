@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hey there.
+I consider myself mostly a beginner/intermediate developer, but I generally enjoy exploring different languages and tools in my spare time. Occasionally, you'll probably find me working on small personal projects that mostly have to do with gaming in some shape or form.
 
+Pronouns: he/him/his
 <!--
 **kenesu-h/kenesu-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
